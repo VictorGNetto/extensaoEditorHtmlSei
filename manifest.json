@@ -1,0 +1,10 @@
+{
+  "name": "Editor HTML para o SEI",
+  "description": "Permite que código HTML seja inserido em um documento SEI",
+  "version": "1.0",
+  "manifest_version": 3,
+  "permissions": ["storage", "activeTab", "scripting"],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}

@@ -1,0 +1,20 @@
+body {
+  background-color: #eee;
+}
+
+h1 {
+  font-size: 18px;
+  font-weight: 600;
+  text-align: justify;
+}
+
+textarea {
+  outline: none;
+  resize: none;
+
+  padding: 10px;
+
+  border-radius: 10px;
+  border: none;
+  box-shadow: 0px 0px 3px #999;
+}
